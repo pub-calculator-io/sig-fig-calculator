@@ -10,6 +10,8 @@ License: GPLv2 or later
 Text Domain: ci_sig_fig_calculator
 */
 
+if (!defined('ABSPATH')) exit;
+
 if (!function_exists('add_shortcode')) return "No direct call for Sig Fig Calculator by Calculator.iO";
 
 function display_ci_sig_fig_calculator(){
