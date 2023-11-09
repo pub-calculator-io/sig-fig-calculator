@@ -13,6 +13,8 @@ Significant figures are essential in various situations. Here, we determine the 
 
 Significant figures are essential in various situations. Here, we determine the rules of sig figs and how we can apply them in the real world.
 
+[Sig Fig Calculator Homepage](https://www.calculator.io/sig-fig-calculator/ "Sig Fig Calculator Homepage")
+
 __Shortcode__
 
 Use the Sig Fig Calculator shortcode:
