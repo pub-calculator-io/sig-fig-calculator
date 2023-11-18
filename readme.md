@@ -1,4 +1,4 @@
-# Sig Fig Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Sig Fig Calculator Widget for WordPress
 
 Significant figures are essential in various situations. Here, we determine the rules of sig figs and how we can apply them in the real world.
 
