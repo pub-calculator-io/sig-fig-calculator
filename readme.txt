@@ -1,4 +1,4 @@
-=== Sig Fig Calculator by Calculator.iO ===
+=== Sig Fig Calculator ===
 Contributors: calculatorio
 Tags: sig fig calculator, significant figures determination, whole number accuracy, real number precision, scientific notation significance, e notation calculations, leading zeros in sig figs, trailing zeros significance, rounding significant figures
 Requires at least: 5.0
