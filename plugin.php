@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Sig Fig Calculator by www.calculator.io
+Plugin Name: CI Sig fig calculator
 Plugin URI: https://www.calculator.io/sig-fig-calculator/
 Description: Significant figures are essential in various situations. Here, we determine the rules of sig figs and how we can apply them in the real world.
 Version: 1.0.0
