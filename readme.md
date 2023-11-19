@@ -7,7 +7,7 @@ Significant figures are essential in various situations. Here, we determine the 
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/sig-fig-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /sig-fig-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Sig Fig Calculator](https://www.calculator.io/sig-fig-calculator/ "Sig Fig Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
