@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Sig Fig Calcula
 == Screenshots ==
 
 1. The Sig Fig Calculator Input Form.
-2. The Sig Fig Calculator Calculation Results.
 
 == Installation ==
 

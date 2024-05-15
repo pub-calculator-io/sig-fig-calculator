@@ -3,7 +3,6 @@
 Significant figures are essential in various situations. Here, we determine the rules of sig figs and how we can apply them in the real world.
 
 ![Sig Fig Calculator Input Form](/assets/images/screenshot-1.png "Sig Fig Calculator Input Form")
-![Sig Fig Calculator Calculation Results](/assets/images/screenshot-2.png "Sig Fig Calculator Calculation Results")
 
 ## Installation
 
